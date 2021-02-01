@@ -10,13 +10,19 @@
                                         c. Numpy
                                         d. Pandas 
 
-4. Dataset Used is MNINST DATASET of handwitten digits(0-9) [Dataset Attached] 
+4. Dataset Used is MNINST DATASET of handwitten digits(0-9) . 
 
-5. Datasets are already splitted in train_test files ( 60000 train , 10000 test) and shuffed for convinience 
+5. Dataset in this project is in CSV format . LINK(for Csv file) - https://www.kaggle.com/oddrationale/mnist-in-csv
 
-6. Precision - Recall validation teachnique is used to evaluate the performance of our classifier .
+6. To downlaod the dataset in original format . LINK(.gz) - http://yann.lecun.com/exdb/mnist/
 
-7. Colums  in Data - { Label(int) , 1*1 , 1*2 ,..........,28*28} 
+7. Datasets are already splitted in train_test files ( 60000 train , 10000 test) and shuffed for convinience 
+
+8. Precision - Recall validation teachnique is used to evaluate the performance of our classifier .
+
+9. Colums  in Data - { Label(int) , 1*1 , 1*2 ,..........,28*28} 
+
+
 
 
 
